@@ -1,0 +1,55 @@
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\bin\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\bin\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.csproj.AssemblyReference.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.Anasayfa.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.Kitapekleme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.csproj.GenerateResource.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\Kitaplık\Kitap\Kitap\obj\Debug\Kitap.Kitapsilme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.AssemblyReference.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Anasayfa.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Kitapekleme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.KitapGoruntule.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Kitapsilme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.GenerateResource.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\bin\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.AssemblyReference.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Anasayfa.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Kitapekleme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.KitapGoruntule.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Kitapsilme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.GenerateResource.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık - Kopya\Kitap\obj\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\bin\Debug\Kitap.exe.config
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\bin\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\bin\Debug\Kitap.pdb
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.csproj.AssemblyReference.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.Anasayfa.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.Kitapekleme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.KitapGoruntule.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.Kitapsilme.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.Properties.Resources.resources
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.csproj.GenerateResource.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.csproj.CoreCompileInputs.cache
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.exe
+C:\Users\Muham\OneDrive\Masaüstü\Faruk Projeler\C#\Kütüphane\Kitaplık\Kitap\obj\Debug\Kitap.pdb
